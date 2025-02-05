@@ -1,3 +1,4 @@
+<img src="https://i.gifer.com/39Cg.gif" width="480" />
 <h1 align="center">Hi 👋, I'm Ayan</h1>
 <h3 align="center">A passionate frontend developer from BD</h3>
 <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="400" />
@@ -15,4 +16,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayanbbu&show_icons=true&locale=en" alt="ayanbbu" /></p>
 
-<img align="center" alt="Coding" width="480" src="https://i.gifer.com/39Cg.gif>
