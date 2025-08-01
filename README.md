@@ -35,27 +35,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ayanbbu&show_icons=true&theme=react&locale=en" alt="ayanbbu" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanbbu&layout=compact&theme=react" alt="Top Langs" height="180"/>
 </p>
-
----
-
-### 🏆 GitHub Trophies:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayanbbu&theme=onedark&no-frame=true&row=1" />
-</p>
-
----
-
-### 📈 GitHub Streak:
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ayanbbu&theme=react&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-### 👁️‍🗨️ Visitor Count
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ayanbbu&label=Profile%20views&color=0e75b6&style=flat" alt="ayanbbu" />
-</p>
